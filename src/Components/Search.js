@@ -1,7 +1,9 @@
 import React from 'react'
 
-const Searchstudent = () => {
+const Search = () => {
   return (
+    <div>
+    
     <div>
 <div classNameName="container">
     <div classNameName="row">
@@ -22,7 +24,11 @@ const Searchstudent = () => {
     </div>
     </div>
     </div>
+
+
+
+    </div>
   )
 }
 
-export default Searchstudent
+export default Search
