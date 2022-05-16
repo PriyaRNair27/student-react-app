@@ -29,7 +29,7 @@ const Addstudent = () => {
                         <input placeholder="enter college name" type="text" className="form-cotrol"/>
                     </div>
                     <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
-                        <buttob className="btn btn-success">register</buttob>
+                        <button className="btn btn-success">register</button>
                     </div>
                 </div>
             </div>
